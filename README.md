@@ -2,7 +2,7 @@
 There is now a growing sample of observed second or higher-order resonances (e.g. TOI-1136, TOI-178, TRAPPIST-1). We carried out an ambitious set of ~20,000 N-body disk migration simulations with REBOUNDx spanning a wide range of disk properties and initial planetary architectures. This repository includes the Python file used to run these simulations and the Jupyter Notebook with analysis code.
 
 In this repository, the following pieces of information are available. 
-1. Generalized_Migration_Runs_v10.py: A Python file to conduct N-body simulations with REBOUND and REBOUNDX.
+1. Generalized_Migration_Runs_v10.py: A Python file to conduct N-body simulations with REBOUND and REBOUNDx.
 2. Population_Synthesis_Analysis.ipynb: Analysis code for the ~20000 simulations run using Generalized_Migration_Runs_v10.py.
 3. Exoplanet Datasets: A folder of datasets used by Generalized_Migration_Runs_v10.py and Population_Synthesis_Analysis.ipynb.
 4. Exoplanet_Archive_Examiner.py: A Python file with a couple helpful functions for manipulating data from the Exoplanet Archive.
