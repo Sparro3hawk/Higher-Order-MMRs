@@ -1,5 +1,5 @@
 # Higher-Order-MMRs
-There is now a growing sample of observed second or higher-order resonances (e.g. TOI-1136, TOI-178, TRAPPIST-1). We carried out an ambitious set of ~20,000 N-body disk migration simulations with REBOUNDx spanning a wide range of disk properties and initial planetary architectures. This repository includes the Python file used to run these simulations and the Jupyter Notebook with analysis code. For more information on the project, check out [this abstract]([url](https://ui.adsabs.harvard.edu/abs/2025AAS...24544104K/abstract)) from AAS 245. 
+There is now a growing sample of observed second or higher-order resonances (e.g. TOI-1136, TOI-178, TRAPPIST-1). We carried out an ambitious set of ~20,000 N-body disk migration simulations with REBOUNDx spanning a wide range of disk properties and initial planetary architectures. This repository includes the Python file used to run these simulations and the Jupyter Notebook with analysis code. For more information on the project, check out [this abstract](https://ui.adsabs.harvard.edu/abs/2025AAS...24544104K/abstract) from AAS 245. 
 
 In this repository, the following pieces of information are available. 
 1. Generalized_Migration_Runs_v10.py: A Python file to conduct N-body simulations with REBOUND and REBOUNDx.
